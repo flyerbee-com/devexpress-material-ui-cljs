@@ -14,22 +14,22 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
-"@devexpress/dx-core@2.5.1":
-  version "2.5.1"
-  resolved "https://registry.yarnpkg.com/@devexpress/dx-core/-/dx-core-2.5.1.tgz#c65f81e73c4572f1a2907514a9e22c398b955553"
-  integrity sha512-cZ2SIhuG6k6LGugUooH4O9vmHtAUMrvYUH5zxUNWR5KkmqexP9UQFD0wzYZVYynCzH0sFeexkc55CvVPVxThIA==
+"@devexpress/dx-core@2.7.6":
+  version "2.7.6"
+  resolved "https://registry.yarnpkg.com/@devexpress/dx-core/-/dx-core-2.7.6.tgz#0a8633aa46ea798cb7c1bb071e02cb9bfbd15d1c"
+  integrity sha512-ykcgRi1x4DwVK/5vXUhwK/S0FCwdIp5GmsG6x+4Xf24xVlVD+68ln0pK+y5tCVE4Scxzmq3m0YFtMpckUKQ6zA==
 
 "@devexpress/dx-grid-core@2.5.1":
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/@devexpress/dx-grid-core/-/dx-grid-core-2.5.1.tgz#4727efe85d101be60473ed3d06d3a860ce988fe1"
   integrity sha512-ELuHRfzYsS6OscQ/60ZwSpgkwkZHcwo4JSjpGOPFknfLVLG6UT94Oz+zBiZ5hLI9SqddcIw9aBm4b9ylApLNmQ==
 
-"@devexpress/dx-react-core@^2.5.1":
-  version "2.5.1"
-  resolved "https://registry.yarnpkg.com/@devexpress/dx-react-core/-/dx-react-core-2.5.1.tgz#cda66065696300f1146717fe9244aaa7d2c05f25"
-  integrity sha512-pTkW29LveXIXGva8pLdU5gkRQ5AU5C5TyBsA7Daao9odYdPnPkdkBvkkl/JvrfCnll8tjrITy6+009/PPY6i+w==
+"@devexpress/dx-react-core@^2.7.6":
+  version "2.7.6"
+  resolved "https://registry.yarnpkg.com/@devexpress/dx-react-core/-/dx-react-core-2.7.6.tgz#33ffdd6064634a2fd6a0e516f103ce448d4c093b"
+  integrity sha512-oKQhtUD0kGNjN5FCMaLE2mDodp1Q67KcC+VYbYdZ9EJUttLrZ5n+YuYZogaXZabGM07uHw+0NABq4GFg8XQcRg==
   dependencies:
-    "@devexpress/dx-core" "2.5.1"
+    "@devexpress/dx-core" "2.7.6"
     prop-types "^15.7.2"
 
 "@devexpress/dx-react-grid-material-ui@^2.5.1":
